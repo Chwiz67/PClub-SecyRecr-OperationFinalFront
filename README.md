@@ -1,4 +1,6 @@
-# Graph Solver from Image
+# Operation Final Front++
+
+Arman Singhal - 240184
 
 This repository contains Python scripts to predict and analyze a graph structure from an input image. It uses a PyTorch model (`model.pth`) to process image features and returns the minimum cost path based on the graph's adjacency matrix.
 
